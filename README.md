@@ -1,7 +1,7 @@
 
-# ![Kritrim Dhi Logo](logo.png) 
+ ![Kritrim Dhi Logo](logo.png) 
 
-Kritrim Dhi - Official AIML Society  
+# Kritrim Dhi - Official AIML Society  
 
 ## 🚀 About Us  
 **Kritrim Dhi** is the official **AI & Machine Learning society**, driven by passionate students eager to explore the frontiers of technology. Our goal is to bridge the gap between **theoretical knowledge** and **real-world applications** by fostering a culture of research, innovation, and collaboration.  
