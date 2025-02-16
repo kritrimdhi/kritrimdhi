@@ -1,4 +1,3 @@
----
 
 # ![Kritrim Dhi Logo](logo.png) Kritrim Dhi - Official AIML Society  
 
